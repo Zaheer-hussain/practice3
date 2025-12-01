@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 bye
+=======
+hello
+>>>>>>> file3split
